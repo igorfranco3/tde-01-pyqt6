@@ -8,7 +8,7 @@ Requisitos: Python 3.14 e [uv](https://docs.astral.sh/uv/).
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd tde-01
+cd tde-01-pyqt6
 uv sync
 uv run app.py
 ```
